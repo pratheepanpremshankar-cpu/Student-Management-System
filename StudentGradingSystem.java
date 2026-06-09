@@ -97,6 +97,7 @@ public class StudentGradingSystem
 
                 case 4:
                     if(student.isEmpty())
+                    {
                         print("No student records available.\n");
                     }
                     else
